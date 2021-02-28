@@ -3,10 +3,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hung-nguyen-manh-developer/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://hanknguyen14.github.io/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hung-nguyen-manh-developer/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://hanknguyen14.github.io/)
 [![Mail Badge](https://img.shields.io/badge/-Gmail-Hank--Nguyen?style=flat-square&logo=gmail&logoColor=white&color=red)](mailto:hungnguyen.dhg@gmail.com)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/hanknguyen14)
+[![CodePen Badge](https://img.shields.io/badge/-CodePen-Hank--Nguyen?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/hanknguyen14)
 [![CV Badge](https://img.shields.io/badge/-CV-Hank--Nguyen?style=flat-square&logo=codeFactor&logoColor=white&color=green)](https://github.com/hanknguyen14/hanknguyen14/blob/master/assets/cv.pdf)
 
 ### It's good to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=hanknguyen14.hanknguyen14&style=flat-square&color=0088cc)
@@ -15,7 +13,7 @@ I am a Full stack developer with industry experience building websites and web a
 
 ### Things I'm falling in love:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual Studio Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
@@ -25,8 +23,8 @@ I am a Full stack developer with industry experience building websites and web a
 ![](https://img.shields.io/badge/Tools-NestJS-informational?style=flat&logo=nestjs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Styled Components-informational?style=flat&logo=styled-components&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Google Cloud Platform-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Styled-Components-informational?style=flat&logo=styled-components&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Google-Cloud-Platform-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)
 
 ### What I've done:
 <details>
@@ -50,4 +48,3 @@ I am a Full stack developer with industry experience building websites and web a
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
-# hanknguyen14
