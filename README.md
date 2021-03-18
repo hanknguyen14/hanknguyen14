@@ -44,7 +44,7 @@ I am a Full stack developer with industry experience building websites and web a
 
 ### Thank you for visiting ❤️!
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Your most unhappy customers are your greatest source of learning.”— Bill Gates   ❞</i>
+<i>❝The first microprocessor created by Intel was the It was designed for a calculator, and in that time nobody imagined where it would lead.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
