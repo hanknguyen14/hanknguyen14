@@ -44,7 +44,7 @@ I am a Full stack developer with industry experience building websites and web a
 
 ### Thank you for visiting ❤️!
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Tandy TRS-80 Model I computer radiated so much interference that many games were designed so that an AM radio next to the computer could be used to provide sounds.❞</i>
+<i>❝“The Internet?  We are not interested in it.”— Bill Gates, 1993   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
