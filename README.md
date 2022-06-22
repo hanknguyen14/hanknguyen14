@@ -44,7 +44,7 @@ I am a Full stack developer with industry experience building websites and web a
 
 ### Thank you for visiting ❤️!
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“A program is never less than 90% complete, and never more than 95% complete.”— Terry Baker   ❞</i>
+<i>❝“In a software project team of 10, there are probably 3 people who produce enough defects to make them net negative producers.”— Gordon Schulmeyer   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
