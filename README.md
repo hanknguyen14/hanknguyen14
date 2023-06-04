@@ -44,7 +44,7 @@ I am a Full stack developer with industry experience building websites and web a
 
 ### Thank you for visiting ❤️!
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If you think your users are idiots, only idiots will use it.”— Linus Torvalds   ❞</i>
+<i>❝During IBM Watson’s Jeopardy Game, it stored all 15 terabytes of its knowledge in RAM, including every page of Wikipedia in existence.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
