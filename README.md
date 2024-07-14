@@ -44,7 +44,7 @@ I am a Full stack developer with industry experience building websites and web a
 
 ### Thank you for visiting ❤️!
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Companies spend millions of dollars on firewalls, encryption and secure access devices, and it’s money wasted, because none of these measures address the weakest link in the security chain.”— Kevin Mitnick   ❞</i>
+<i>❝2012 was the year a hacker group took down Pope John’s website because a food company spent over two hours to deliver as expected. The hacker group was called UGNazi.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
