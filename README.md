@@ -44,7 +44,7 @@ I am a Full stack developer with industry experience building websites and web a
 
 ### Thank you for visiting ❤️!
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Only 2 out of the top 500 supercomputers run on Windows, and 485 are Linux.❞</i>
+<i>❝CPU manufacturing is so unpredictable that every chip must be tested since the majority of finished chips are defective. Those that survive are assigned a model number and price reflecting their maximum safe performance.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
