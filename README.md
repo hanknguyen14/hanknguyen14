@@ -44,7 +44,7 @@ I am a Full stack developer with industry experience building websites and web a
 
 ### Thank you for visiting ❤️!
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Sony released a kit that allows PS2s (Linux for PlayStation 2) to be used as a personal computer.❞</i>
+<i>❝“Everyone by now presumably knows about the danger of premature optimization.  I think we should be just as worried about premature design — designing too early what a program should do.”— Paul Graham   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
