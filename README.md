@@ -44,7 +44,7 @@ I am a Full stack developer with industry experience building websites and web a
 
 ### Thank you for visiting ❤️!
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Gaming computers heat a room just as efficiently as a space heater does.❞</i>
+<i>❝“Physics is the universe’s operating system.”— Steven R Garman   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
