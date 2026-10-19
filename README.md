@@ -44,7 +44,7 @@ I am a Full stack developer with industry experience building websites and web a
 
 ### Thank you for visiting ❤️!
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The problem of viruses is temporary and will be solved in two years.”— John McAfee, 1988  ❞</i>
+<i>❝“If the code and the comments do not match, possibly both are incorrect.”— Norm Schryer   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
